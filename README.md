@@ -16,6 +16,7 @@ The app includes 4 features:
 - a dynamic histogram
 - a dynamic data table 
 
+![cherryhunting](https://user-images.githubusercontent.com/105319246/201993886-47d20ce2-de66-4d08-9a44-51850090f101.png)
 
 ## Acknowledgement
 The source data comes from `vancouver_tree` dataset in the datateachr package https://github.com/UBC-MDS/datateachr.
